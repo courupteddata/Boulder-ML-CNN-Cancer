@@ -1,3 +1,3 @@
 # Boulder-ML-CNN-Cancer
 
-See [notebook.ipynb](notebook.ipynb)
+See [cancer-detection.ipynb](cancer-detection.ipynb)
